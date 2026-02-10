@@ -2,7 +2,7 @@
 name: "\U0001F41E Bug report"
 about: Report a bug or unexpected behavior while using CircuitVerseDocs
 title: ''
-labels: "\U0001F41E bug, pending triage"
+labels: "🐞 bug, pending triage"
 assignees: ''
 
 ---
