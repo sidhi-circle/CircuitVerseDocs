@@ -1,8 +1,12 @@
 ---
-name: "🐞 Bug report"
+name: "\U0001F41E Bug report"
 about: Report a bug or unexpected behavior while using CircuitVerseDocs
-labels: "🐞 bug"
+title: ''
+labels: "\U0001F41E bug, pending triage"
+assignees: ''
+
 ---
+
 ## Describe the bug
 A clear and concise description of what the bug is.
 
