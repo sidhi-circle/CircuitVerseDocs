@@ -2,7 +2,7 @@
 name: "⭐️ Feature request"
 about: Suggest an idea for this project
 title: ''
-labels: "\U0001F31F feature, pending triage"
+labels: "🌟 feature, pending triage"
 assignees: ''
 
 ---
